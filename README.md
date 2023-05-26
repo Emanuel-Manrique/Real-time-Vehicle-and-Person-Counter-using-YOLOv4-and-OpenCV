@@ -13,7 +13,7 @@ This is a basic implementation and serves as a starting point for more complex o
 💻 How to run the project:
 
 1) Install the required Python libraries with pip install opencv-python numpy.
-2) Download the YOLO weights and place it in models folder.
+2) [Download the YOLO weights V4](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.weights) and place it in the models folder.
 3) Run python main.py.
 4) The application will start a video feed and display the frames with bounding boxes around detected vehicles and people, along with counters for the number of detected objects. The feed can be closed by pressing the 'Esc' key. 🎥
 
